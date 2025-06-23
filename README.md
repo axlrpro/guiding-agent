@@ -11,8 +11,6 @@ Apart from access, not configuring settinga can also lead to security issues (li
 
 [Demo Video](https://drive.google.com/drive/folders/1gXmGczp_DCtwaTUGGmXQRJ-TNimeNQrN?usp=sharing)
 
-![Demo-Video](https://drive.google.com/drive/folders/1gXmGczp_DCtwaTUGGmXQRJ-TNimeNQrN?usp=sharing)
-
 ## Architecture
 This is a python project built using [Google ADK](https://google.github.io/adk-docs/).
 
